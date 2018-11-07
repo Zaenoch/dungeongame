@@ -1,0 +1,2 @@
+//Vars
+movspeed = 7;
