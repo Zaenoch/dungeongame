@@ -1,2 +1,10 @@
 //Vars
-movspeed = 7;
+leftbut = 0;
+rightbut = 0;
+upbut = 0;
+downbut = 0;
+movspeed = 5;
+hsp = 0;
+vsp = 0;
+
+walls = layer_tilemap_get_id("wall_c")

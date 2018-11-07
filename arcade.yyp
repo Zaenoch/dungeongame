@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "28bf7181-3aea-4938-b2b6-8535e4207ffe",
+            "Value": {
+                "id": "85f981ff-afc7-44ad-9b47-6d8851aac776",
+                "resourcePath": "sprites\\sprite5\\sprite5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2d8c67b7-d9bf-454d-8c6e-a88249e04a93",
             "Value": {
                 "id": "f071e832-ed8f-4722-bfec-e6e584644268",
@@ -79,6 +87,14 @@
             }
         },
         {
+            "Key": "4b75b4d3-ccf8-422b-a357-079d505220de",
+            "Value": {
+                "id": "08d25414-5835-47db-ac13-9ace91ac5c36",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b874f8d-4eff-4a39-b196-720fe82222bc",
             "Value": {
                 "id": "3b7f216a-cf9f-40ec-aaa9-7f69a86d6e92",
@@ -111,18 +127,10 @@
             }
         },
         {
-            "Key": "64e5932f-7bb4-4874-b5f2-8ac72ba0553f",
-            "Value": {
-                "id": "e0331782-aaba-43a4-a4b8-6216878bd65d",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "698e6aec-d78c-4ef0-85ec-54f914c52489",
             "Value": {
                 "id": "d969d978-fc49-412d-a099-61b4f0b707df",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourcePath": "tilesets\\wall_t\\wall_t.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -236,6 +244,14 @@
                 "id": "852db9dc-e448-456d-81f1-b801926bcad7",
                 "resourcePath": "sprites\\player_walkup_spr\\player_walkup_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f1c87424-adea-4ad2-8420-5999e6f69bfd",
+            "Value": {
+                "id": "212006ad-6a6a-4bda-8e1b-0155eb08ba5d",
+                "resourcePath": "tilesets\\collision_t\\collision_t.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
