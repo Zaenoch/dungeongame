@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "987853f3-0aec-4966-b7d5-6eb805aab309",
+            "Value": {
+                "id": "5e5fc682-7658-4fda-a574-c2390642395f",
+                "resourcePath": "tilesets\\collision_t16\\collision_t16.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "9f55cbb1-066d-4fa8-8c5b-5745321a2977",
             "Value": {
                 "id": "d7cef69a-23cb-40cb-b15f-bcf843e4cc32",
@@ -250,7 +258,7 @@
             "Key": "f1c87424-adea-4ad2-8420-5999e6f69bfd",
             "Value": {
                 "id": "212006ad-6a6a-4bda-8e1b-0155eb08ba5d",
-                "resourcePath": "tilesets\\collision_t\\collision_t.yy",
+                "resourcePath": "tilesets\\collision_t32\\collision_t32.yy",
                 "resourceType": "GMTileSet"
             }
         },
