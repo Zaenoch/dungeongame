@@ -36,8 +36,8 @@ rightbut = (keyboard_check(ord("A")));
 downbut = (keyboard_check(ord("S")));
 upbut = (keyboard_check(ord("W")));
 
-hsp = (leftbut - rightbut) * (movspeed + runbut * 3.5);
-vsp = (downbut - upbut) * (movspeed + runbut * 3.5);
+hsp = (leftbut - rightbut) * (movspeed + runbut * 2.5);
+vsp = (downbut - upbut) * (movspeed + runbut * 2.5);
 
 if (hsp > 0) bbox_side = bbox_right; else bbox_side = bbox_left;
 	if (tilemap_get_at_pixel(walls,bbox_side + hsp,bbox_top) != 0) || (tilemap_get_at_pixel(walls,bbox_side+hsp,bbox_bottom) != 0 ){

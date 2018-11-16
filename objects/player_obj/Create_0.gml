@@ -3,7 +3,7 @@ leftbut = 0;
 rightbut = 0;
 upbut = 0;
 downbut = 0;
-movspeed = 5;
+movspeed = 3;
 hsp = 0;
 vsp = 0;
 
